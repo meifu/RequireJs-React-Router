@@ -1,0 +1,21 @@
+{
+  "name": "RequireJs-React-Router",
+  "version": "0.0.0",
+  "authors": [
+    "Hamm Huang <hhuang@beefdaddy.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react-router": "~0.13.3",
+    "requirejs-react-jsx": "~0.14.1",
+    "requirejs": "~2.1.17"
+  }
+}
