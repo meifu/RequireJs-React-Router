@@ -1,6 +1,8 @@
 # RequireJs - React Router
 
-透過 RequireJs 來使用 React Router，好像可以用，您可以試試看。
+Using React Router with RequireJs.
+
+It works. Please try it out.
 
 Example
 
@@ -32,9 +34,9 @@ Install
 $ bower install
 ```
 
-## 使用方式
+## Usage
 
-設定好 config.js 就可以用 React Router, 設定如下 ：
+Set up config.js：
 
 config.js
 
@@ -130,17 +132,17 @@ define(function (require) {
 });
 ```
 
-可以用 jsx，es6 語法
+You can write jsx, ES6
 
-# Building
+# Build
 
-最後您可以透過 r.js 打包專案
+Wrap your application :
 
 ```
 $ r.js -o build.js
 ```
 
 
-# 備註
+# Note
 
-參考 [react-router](https://github.com/rackt/react-router)
+refrence: [react-router](https://github.com/rackt/react-router)
