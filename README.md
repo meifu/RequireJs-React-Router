@@ -6,7 +6,7 @@ It works. Please try it out.
 
 Example
 
-![http://i.imgur.com/2xlEbWg.png](http://i.imgur.com/2xlEbWg.png)
+[http://i.imgur.com/2xlEbWg.png](http://i.imgur.com/2xlEbWg.png)
 
 
 ## Install
